@@ -1,0 +1,28 @@
+body{
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(106, 255, 6, 0.973);
+}
+.all{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.all .logo_container{
+  background-color: white;
+  height: 100%;
+  width: 50%;
+  border-bottom-right-radius: 50%;
+}
+
+
+.all .form_container{ 
+  height: 100%;
+  width: 50%;
+}
+
